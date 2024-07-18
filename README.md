@@ -1,6 +1,6 @@
-# To-Do List 
-
-Developed a responsive To-Do List web application using HTML, CSS, and JavaScript. The application allows users to add, edit, and delete tasks, with real-time updates and an intuitive user interface. It includes features such as-
+# To-Do List
+Developed a responsive To-Do List web application using HTML, CSS, and JavaScript. The application allows users to add, edit, and delete tasks, with real-time updates and an
+intuitive user interface. It includes features such as-
 
 Add Tasks: Easily add new tasks to your list.
 Delete Tasks: Remove tasks that are no longer needed.
